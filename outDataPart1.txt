@@ -1,9 +1,0 @@
-You have a starting balance of $5000
-You withdrawed $ 200 you have $ 4800 left after this transaction
-You withdrawed $ 800 you have $ 4000 left after this transaction
-You withdrawed $ 40 you have $ 3960 left after this transaction
-You deposited $ 90 you have $ 4050 after this transaction
-You deposited $ 100 you have $ 4150 after this transaction
-You deposited $ 1000 you have $ 5150 after this transaction
-You withdrawed $ 20 you have $ 5130 left after this transaction
-You withdrawed $ 20 you have $ 5110 left after this transaction
